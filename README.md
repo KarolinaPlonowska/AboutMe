@@ -1,9 +1,7 @@
-👋 Hi, I’m Karolina Plonowska.
-👀 I’m interested in programming.
-🌱 I study computer science.
-📫 How to reach me: karolinaplonowska1@gmail.com.
+## 👋 About Me
 
-<!---
-KarolinaRajs/KarolinaRajs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Computer Science graduate currently pursuing a Master's degree in Production Engineering.
+
+I am focused on developing fullstack web applications and learning how to build systems that are not only functional, but also useful from a business and user perspective.
+
+I enjoy working at the intersection of technology, data, and user experience. I am particularly interested in how modern tools, including AI, can support development and improve workflows.
